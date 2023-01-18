@@ -16,7 +16,7 @@ For IoT we used Thingspeak platform along with IFTTT service.
 
 ## Authors
 
-- [@Archit Patro](https://github.com/Roshanteja21)
+- [@Archit Patro](https://github.com/Archit-Patro)
 - [@Vanya Nandwani](https://github.com/vannyyyaaa)
 - [@Ansh Verma](https://github.com/anshverma1612)
 - [@Harshal Bhure]()
