@@ -6,13 +6,7 @@
 
 Aarogya- This project is an hardware project combined with IoT made during Project cycle of 2021-2023.
 
-The components used are:
-ESP8266 Wifi module
-MAX30102
-Jumper cables
-Breadboard
-
-For IoT we used Thingspeak platform along with IFTTT service.
+This is a life saving project where
 
 ## Authors
 
@@ -46,11 +40,10 @@ For the above-mentioned feature, 3 libraries namely additional, mail, activation
 ## Project Report
 [Document_2]
 
-## Flow Chart
-![FLOW CHART]
 
 ## Circuit Diagram
-![Circuit Diagram]
+
+![CircuitDiagram](https://user-images.githubusercontent.com/91776131/213242261-07d7a4be-4740-446d-a5d2-b3b9169d31a4.jpg)
 
 ## App Layout
 ![Applayout]
