@@ -4,7 +4,7 @@
  <img src=""><br>
 </p>
 
-Aarogya- This project is an hardware project combined with IoT made during Project cycle of 2021-2023.
+Aarogya- This project is an hardware project combined with IoT made during Project cycle of 2021-2022.
 
 This is a life saving project where
 
