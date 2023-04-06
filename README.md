@@ -6,7 +6,8 @@
 
 Aarogya- This project is an hardware project combined with IoT made during Project cycle of 2021-2022.
 
-This is a life saving project where
+This is a system that can continuously monitor a patient's heart rate and detect any abnormal spikes or drops in their heart rate. The system would then alert the patient's family or caregiver in real-time, allowing them to take immediate action if necessary.
+This project has the potential to help save lives by providing real-time monitoring of a patient's heart rate and alerting their emergency contacts if there is a problem.
 
 ## Authors
 
