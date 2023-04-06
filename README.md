@@ -32,24 +32,11 @@ For the above-mentioned feature, 3 libraries namely additional, mail, activation
 
 **EDITOR:** Arduino IDE, Android Studio
 
-## Software Requirements Specification
-
-
-[Document]
-
-## Project Report
-[Document_2]
 
 
 ## Circuit Diagram
 
 ![CircuitDiagram](https://user-images.githubusercontent.com/91776131/213242261-07d7a4be-4740-446d-a5d2-b3b9169d31a4.jpg)
-
-## App Layout
-![Applayout]
-
-## Working Video
-[Video]
 
 
 <p align="center">
