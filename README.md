@@ -26,8 +26,6 @@ For the above-mentioned feature, 3 libraries namely additional, mail, activation
 
 **Hardware**From the hardware side , we used NODEMCU which is apparently the best and cheapest option for this project. We had chosen the MAX30102 module for detecting the heartbeat and the SpO2% of the individual. This data is sent to ThingSpeak where we have connected the the app IFTTT. IFTTT mobile app has to be installed in the individual's phone where it will give a call whenever there is a fluctuation in the person's heartbeat.
 
-**Server:** ??
-
 **Components:** NodeMCU, MAX30102
 
 **EDITOR:** Arduino IDE, Android Studio
